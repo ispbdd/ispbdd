@@ -34,6 +34,7 @@
 <a href="https://wikipedia.org/wiki/Visual_Studio_Code" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" height="25" /></a>
 <a href="https://wikipedia.org/wiki/Arduino" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>
 <a href="https://wikipedia.org/wiki/JetBrains" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/JetBrains_company_logo.svg/1920px-JetBrains_company_logo.svg.png" alt="JetBrains" height="25" /></a>
+<a href="https://wikipedia.org/wiki/WordPress" target="_blank"><img style="margin: 10px" src="https://ru.wikipedia.org/wiki/WordPress#/media/%D0%A4%D0%B0%D0%B9%D0%BB:WordPress_logo.svg" alt="JetBrains" height="25" /></a>
 
 ### Языки программирования
 <a href="https://wikipedia.org/wiki/C%2B%2B" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="25" /></a>
@@ -44,15 +45,15 @@
 
 ### Гипертекстовая раазметка
 <a href="https://wikipedia.org/wiki/Markdown" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png" alt="MarkDown" height="25" /></a>
-<a href="https://wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" height="25" /></a>
+<a href="https://wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5" height="25" /></a>
 <a href="https://wikipedia.org/wiki/CSS" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" height="25" /></a>
 
 ### Декларативное программирование
 <a href="https://wikipedia.org/wiki/XAML" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/16964652/66596008-f4e3ed80-eb50-11e9-9a8a-3e9a5adf4d7c.png" alt="XAML" height="25" /></a>
 
 ### Дистрибутивы, платформы и утилиты
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="25" /></a>
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>
+<a href="https://wikipedia.org/wiki/.NET_Framework" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" height="25" /></a>
+<a href="https://wikipedia.org/wiki/XAMPP" target="_blank"><img style="margin: 10px" src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="XAMPP" height="25" /></a>
 <a href="https://ngrok.com/" target="_blank"><img style="margin: 10px" src="https://cdn.prod.website-files.com/63ed4bc7a4b189da942a6b8c/6411ffa14c60dbe1848fafff_Frame%202.svg" alt="ngrok" height="25" /></a>
 
 <br/>
