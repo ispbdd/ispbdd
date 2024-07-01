@@ -51,7 +51,7 @@
 ### Дистрибутивы, платформы и утилиты
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="25" /></a>
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>
-<a href="https://ngrok.com/" target="_blank"><img style="margin: 10px" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAARVBMVEUCI48AAIUAGYwAFIv////29/wAAIJUYKfn6fJ6grcNKZGyttTv8PZmb67BxNyssdC0udbd3+z4+PsABYni5O8AH44cM5WwOgziAAAAVklEQVR4Ad2JhRHAMAzEGqYy7T9qw7xAKtOfNQ0JMEwQGFDtsIZQZg4XoCcldijQkTP2LLCRiRW0clNK7SYcrTzpdYHJpLsj9et5fyFJK701mPD4NB4f07AF1Bwc3XUAAAAASUVORK5CYII=" alt="ngrok" height="25" /></a>
+<a href="https://ngrok.com/" target="_blank"><img style="margin: 10px" src="http://www.w3.org/2000/svg" alt="ngrok" height="25" /></a>
 
 <br/>
 
