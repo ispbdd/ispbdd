@@ -2,7 +2,6 @@
 
 <a href="https://github.com/rizeshawty" target="_blank">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" alt="telegram" style="margin-bottom: 5px;" />
 </a>
 
 ### Рад видеть вас здесь
