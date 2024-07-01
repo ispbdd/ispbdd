@@ -55,17 +55,6 @@
 
 <br/>
 
-## Статистика
-
-<table>
-<tr>
-
-<img src="https://github-readme-stats.vercel.app/api?username=rizeshawty&show_icons=true&theme=radical" align="left" style="width: 100%" />
-
-</td>
-</tr>
-</table>
-
 <br/>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=rizeshawty&&style=flat-square)
