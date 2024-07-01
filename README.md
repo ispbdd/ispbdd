@@ -1,4 +1,4 @@
-![image](https://github.com/rizeshawty/rizeshawty/assets/132708222/9d5f311b-0128-49ec-856b-3dbc46a58af4)## 👋 Привет! Меня зовут Данил.
+## 👋 Привет! Меня зовут Данил.
 
 <a href="https://github.com/rizeshawty" target="_blank">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
