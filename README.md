@@ -19,6 +19,10 @@
 
 <br/>
 
+![Profile views counter](https://komarev.com/ghpvc/?username=rizeshawty&&style=flat-square)
+
+<br/>
+
 ## Инструменты и языки программирования
 
 ### Графические инструменты
@@ -52,12 +56,6 @@
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="25" /></a>
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>
 <a href="https://ngrok.com/" target="_blank"><img style="margin: 10px" src="https://cdn.prod.website-files.com/63ed4bc7a4b189da942a6b8c/6411ffa14c60dbe1848fafff_Frame%202.svg" alt="ngrok" height="25" /></a>
-
-<br/>
-
-<br/>
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rizeshawty&&style=flat-square)
 
 <br/>
 
