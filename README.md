@@ -30,7 +30,7 @@
 <a href="https://wikipedia.org/wiki/Figma" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/64px-Figma-logo.svg.png" alt="Figma" height="25" /></a>
 
 ### Среды разработки
-<a href="https://visualstudio.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Visual_Studio_2012_logo_and_wordmark.svg" alt="Visual Studio" height="25" /></a>
+<a href="https://wikipedia.org/wiki/Microsoft_Visual_Studio" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Visual_Studio_2012_logo_and_wordmark.svg" alt="Visual Studio" height="25" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" height="25" /></a>
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>
 <a href="https://www.jetbrains.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Cib-jetbrains_%28CoreUI_Icons_v1.0.0%29.svg" alt="JetBrains" height="25" /></a>
