@@ -29,6 +29,7 @@
 
 ### Среда разработки
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>
+<a href="https://www.jetbrains.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Cib-jetbrains_%28CoreUI_Icons_v1.0.0%29.svg" alt="JetBrains" height="25" /></a>
 
 ### Языки программирования
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>
@@ -38,7 +39,7 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>
 
 ### Гипертекстовая раазметка
-<a href="https://ru.wikipedia.org/wiki/Markdown" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="CSS3" height="25" /></a>
+<a href="https://ru.wikipedia.org/wiki/Markdown" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="MarkDown" height="25" /></a>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>
 
