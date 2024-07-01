@@ -21,8 +21,6 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=rizeshawty&&style=flat-square)
 
-<br/>
-
 ## Инструменты и языки программирования
 
 ### Графические инструменты
