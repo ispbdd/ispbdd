@@ -34,7 +34,7 @@
 <a href="https://wikipedia.org/wiki/Visual_Studio_Code" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" height="25" /></a>
 <a href="https://wikipedia.org/wiki/Arduino" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>
 <a href="https://wikipedia.org/wiki/JetBrains" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/JetBrains_company_logo.svg/1920px-JetBrains_company_logo.svg.png" alt="JetBrains" height="25" /></a>
-<a href="https://wikipedia.org/wiki/WordPress" target="_blank"><img style="margin: 10px" src="https://ru.wikipedia.org/wiki/WordPress#/media/%D0%A4%D0%B0%D0%B9%D0%BB:WordPress_logo.svg" alt="JetBrains" height="25" /></a>
+<a href="https://wikipedia.org/wiki/WordPress" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="WordPress" height="25" /></a>
 
 ### Языки программирования
 <a href="https://wikipedia.org/wiki/C%2B%2B" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="25" /></a>
