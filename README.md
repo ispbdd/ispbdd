@@ -59,14 +59,8 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
 
-<!-- Место для дополнительного контента -->
-
-</td>
-<td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizeshawty&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rizeshawty&show_icons=true&theme=radical" align="left" style="width: 100%" />
 
 </td>
 </tr>
