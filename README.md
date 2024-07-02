@@ -37,7 +37,6 @@
 <a href="https://wikipedia.org/wiki/DbForge_Studio_for_MySQL" target="_blank"><img style="margin: 10px" src="https://i0.wp.com/logon-int.com/wp-content/uploads/2019/01/dbforge-studio-for-sql-server-logo.png?fit=300%2C300&ssl=1" alt="DbForge" height="25" /></a>
 
 ### Языки программирования
-<a href="https://wikipedia.org/wiki/C%2B%2B" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="25" /></a>
 <a href="https://wikipedia.org/wiki/C_Sharp" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/1024px-C_Sharp_Logo_2023.svg.png" alt="C#" height="25" /></a>
 <a href="https://wikipedia.org/wiki/Python_(programming_language)" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" height="25" /></a>
 <a href="https://wikipedia.org/wiki/JavaScript" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="25" /></a>
