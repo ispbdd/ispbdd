@@ -4,6 +4,14 @@
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
 
+<a href="https://vk.com/id605793875" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/VK_Full_Logo_%282021-present%29.svg" alt="ВКонтакте" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://t.me/DanilDmitrievich0" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram channel" style="margin-bottom: 5px;" />
+</a>
+
 ### Рад видеть вас здесь
 
 Я увлеченный студент в области информационных систем и программирования, стремящийся к постоянному развитию и совершенствованию своих навыков. Мои ключевые компетенции включают изучение новых языков программирования, разработку приложений для различных платформ, а также технологии разработки и защиты баз данных.
