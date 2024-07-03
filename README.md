@@ -1,8 +1,6 @@
 ## 👋 Привет! Меня зовут Данил.
 
-<a href="https://github.com/rizeshawty" target="_blank">
-  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-</a>
+<a href="https://github.com/rizeshawty" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" height="25" /></a>
 
 ### Рад видеть вас здесь
 
